@@ -38,7 +38,6 @@ const form2 = () => {
           {...passwordField}/>
       </div>
       <button type="submit">Log in</button>
-      <i>Link to the <a href="" target="_blank">Code</a></i>
     </form>
   )
 }

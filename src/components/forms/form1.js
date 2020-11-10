@@ -30,7 +30,6 @@ const form1 = props => {
           onChange={(e) => setPassword(e.target.value)}/>
       </div>
       <button type="submit">Log in</button>
-      <i>Link to the <a href="" target="_blank">Code</a></i>
     </form>
   )
 }
